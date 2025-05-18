@@ -13,19 +13,11 @@ This project aims to predict the prices of used cars using machine learning tech
 ## Project Structure
 ```
 ├── Codes/
-│   ├── Used Car Price Prediction.ipynb      # Original notebook with analysis
-│   ├── Enhanced_Visualizations.py           # Enhanced data visualizations
-│   ├── Advanced_Model_Development.py        # Advanced modeling techniques
-│   ├── Interactive_Dashboard.py             # Interactive data dashboard
-│   └── app.py                               # Flask web application
+│  ├── Interactive_Dashboard.py             # Interactive data dashboard
 ├── Dataset/
-│   └── dataset.csv                          # Used car dataset
-├── Graphs & Visualization/
-│   └── [Various visualization files]         # Generated visualization outputs
-├── Pickle/
-│   └── [Various model files]                 # Saved ML models
+│   └── dataset.csv                          # Used car dataset               
 └── README.md                                # Project documentation
-```
+
 
 ## Visualizations
 The project includes comprehensive visualizations:
